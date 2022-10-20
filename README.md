@@ -1,3 +1,3 @@
 # WinFormNotepad
 
-Small text editor using WinForms
+Small text editor done using WinForms
